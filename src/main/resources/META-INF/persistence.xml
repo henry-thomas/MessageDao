@@ -7,8 +7,8 @@
         <class>com.merlobranco.entity.Message</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <shared-cache-mode>ENABLE_SELECTIVE</shared-cache-mode>
-        <properties>
+<!--        <properties>
             <property name="eclipselink.weaving" value="false"/>
-        </properties>
+        </properties>-->
     </persistence-unit>
 </persistence>
